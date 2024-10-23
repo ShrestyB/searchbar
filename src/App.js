@@ -18,7 +18,7 @@ const App = () => {
 
     return (
         <div className="container">
-            <h1 className="title">Search App</h1>
+            <h1 className="title">Search Bar</h1>
             <form onSubmit={handleSearch} className="search-form">
                 <input
                     type="text"
